@@ -8,6 +8,18 @@
 npm install --save https://github.com/jrc03c/js-frills
 ```
 
+Then add it as a script in your web page:
+
+```html
+<script src="path/to/js-frills/js-frills.js"></script>
+```
+
+Or `require` it:
+
+```js
+require("js-frills")
+```
+
 # Usage
 
 ```js
