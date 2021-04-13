@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="400">
+</p>
+
 # Introduction
 
 **js-frills** is a little package that adds a few niceties to the core JS functionality. You don't have to like or use them. :)
