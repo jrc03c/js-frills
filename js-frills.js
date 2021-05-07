@@ -24,3 +24,23 @@ Array.prototype.getRandom = function(){
 }
 
 Array.prototype.random = Array.prototype.getRandom
+
+Object.defineProperty(Array.prototype, "first", {
+  get(){
+    return this[0]
+  },
+
+  set(){
+    throw new Error("The `first` property of an array is read-only!")
+  },
+})
+
+Object.defineProperty(Array.prototype, "last", {
+  get(){
+    return this[this.length - 1]
+  },
+
+  set(){
+    throw new Error("The `last` property of an array is read-only!")
+  },
+})

@@ -53,6 +53,12 @@ for (i of 5) console.log(words.random())
 // foo
 // foo
 // bar
+
+console.log(words.first)
+// foo
+
+console.log(words.last)
+// baz
 ```
 
 I'll continue adding more things as I think of them!
