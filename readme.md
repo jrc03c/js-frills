@@ -4,7 +4,7 @@
 
 # Introduction
 
-**js-frills** is a little package that adds a few niceties to the core JS functionality. You don't have to like or use them. :)
+**js-frills** is a little package that adds a few niceties to the core JS functionality by monkey-patching them in (which you're apparently not supposed to do). You don't have to like or use them. :)
 
 # Installation
 
