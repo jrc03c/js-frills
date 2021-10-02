@@ -1,6 +1,6 @@
 {
-  "name": "js-frills",
-  "version": "1.0.0",
+  "name": "@jrc03c/js-frills",
+  "version": "1.0.1",
   "description": "",
   "main": "js-frills.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/jrc03c/js-frills.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "jrc03c",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jrc03c/js-frills/issues"
