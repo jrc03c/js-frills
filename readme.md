@@ -21,7 +21,7 @@ Then add it as a script in your web page:
 Or `require` it:
 
 ```js
-require("js-frills")
+require("@jrc03c/js-frills")
 ```
 
 # Usage
